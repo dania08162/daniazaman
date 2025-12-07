@@ -24,6 +24,6 @@ applications and contributing to open-source projects.
 ### 📫 How to reach me
 - LinkedIn: www.linkedin.com/in/dania-zaman-916328359
 - Email: daniazaman950@gmail.com
-- 
+ 
 ### 📊 GitHub Stats
 Currently coding multiple projects!
